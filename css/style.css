@@ -29,3 +29,44 @@
 .btn-danger {
     background-color: brown;
 }
+
+.container {
+    margin: 20px;
+}
+
+.card {
+    width: 150px;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 12px rgb(24, 71, 109);
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+}
+
+.card .username{
+    text-transform: uppercase;
+    font-weight:  bold;
+    color: rgb(52, 9, 151);
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+
+.card img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 15px;
+}
+
+
+.card .description{ 
+    color: #1f1b1b;
+    font-size: 0.9em;
+    height: 60px;
+}
+
