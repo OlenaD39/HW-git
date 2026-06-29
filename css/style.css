@@ -1,11 +1,11 @@
 .btn {
     border-radius: 6px;
     border: 2cap;
-    cursor: auto;
-    width: 20px;
-    height: 30px;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
     padding: 2px 16px;
-    margin: 5px;
+    margin: 15px;
 
 }
 .btn-primary {
